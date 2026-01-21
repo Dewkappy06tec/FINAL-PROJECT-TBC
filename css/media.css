@@ -1,0 +1,186 @@
+@media (max-width: 800px) {
+  .nav {
+    display: none;
+  }
+  .mybars {
+    display: block;
+  }
+}
+
+@media (max-width: 800px) {
+  .s19-container {
+    flex-direction: column;
+    text-align: center;
+  }
+  .batumi {
+    max-width: 100%;
+    margin: 0 auto;
+    display: block;
+  }
+  .p19-text1 {
+    text-align: left;
+  }
+
+  .s-1 {
+    max-width: 550px;
+  }
+
+  .cards-wraper13 {
+    flex-direction: column;
+  }
+
+  .tbclogo {
+    width: 150px;
+    height: 150px;
+  }
+
+  .tbilisiadres {
+    flex-wrap: wrap;
+  }
+
+  .features {
+    flex-wrap: wrap;
+    font-size: 15px;
+    text-align: left;
+  }
+}
+
+@media (max-width: 800px) {
+  .p3-text {
+    font-size: 30px;
+  }
+  .h-4 {
+    font-size: 35px;
+  }
+
+  .p4-text {
+    font-size: 35px;
+    text-align: left;
+  }
+  .h-5 {
+    font-size: 35px;
+    text-align: left;
+  }
+
+  .p6-text {
+    font-size: 35px;
+    text-align: left;
+  }
+  .p6-text6 {
+    font-size: 15px;
+    text-align: left;
+  }
+
+  .p7-text {
+    font-size: 35px;
+    text-align: left;
+  }
+  .h-7 {
+    font-size: 25px;
+    text-align: left;
+  }
+  .p8-text {
+    font-size: 25px;
+    text-align: left;
+  }
+
+  .p10-text {
+    font-size: 25px;
+    text-align: left;
+  }
+
+  .p10-text1 {
+    font-size: 20px;
+    text-align: left;
+  }
+
+  .p8-text1 {
+    font-size: 20px;
+    text-align: left;
+  }
+
+  .infobox21 {
+    font-size: 20px;
+    text-align: left;
+  }
+
+  .p18-text {
+    font-size: 35px;
+    text-align: left;
+  }
+  .h-18 {
+    font-size: 20px;
+    text-align: left;
+  }
+
+  .infobox19 {
+    flex-direction: column;
+    font-size: 10px;
+  }
+
+  .p19-text {
+    font-size: 20px;
+    text-align: left;
+  }
+  .p19-text1 {
+    font-size: 20px;
+    text-align: left;
+  }
+
+  .infobox20 {
+    flex-direction: column;
+    font-size: 10px;
+  }
+
+  .p20-text {
+    font-size: 20px;
+    text-align: left;
+  }
+  .p20-text1 {
+    font-size: 20px;
+    text-align: left;
+  }
+
+  .infobox21 {
+    flex-direction: column;
+    font-size: 10px;
+  }
+
+  .p21-text {
+    font-size: 20px;
+    text-align: left;
+  }
+  .p21-text1 {
+    font-size: 20px;
+    text-align: left;
+  }
+
+  .infobox {
+    flex-direction: column;
+    font-size: 10px;
+  }
+
+  .infobox10 {
+    flex-direction: column;
+    font-size: 10px;
+  }
+
+  .p12-text {
+    font-size: 30px;
+  }
+
+  .p15-text {
+    font-size: 30px;
+  }
+  .p16-text {
+    font-size: 30px;
+  }
+  .p17-text {
+    font-size: 30px;
+  }
+
+  .p22 {
+    font-size: 25px;
+    text-align: left;
+  }
+}
